@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC574EE71C33B5C70090617B /* SB.m in Sources */ = {isa = PBXBuildFile; fileRef = BC574EE61C33B5C70090617B /* SB.m */; };
 		BC938DA81C2E7ED9004AB746 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BC938DA71C2E7ED9004AB746 /* main.m */; };
 		BC938DAB1C2E7ED9004AB746 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BC938DAA1C2E7ED9004AB746 /* AppDelegate.m */; };
 		BC938DAE1C2E7ED9004AB746 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BC938DAD1C2E7ED9004AB746 /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BC574EE51C33B5C70090617B /* SB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SB.h; sourceTree = "<group>"; };
+		BC574EE61C33B5C70090617B /* SB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SB.m; sourceTree = "<group>"; };
 		BC938DA31C2E7ED9004AB746 /* AVPlayerDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AVPlayerDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC938DA71C2E7ED9004AB746 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BC938DA91C2E7ED9004AB746 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -113,6 +116,8 @@
 				BC938DAD1C2E7ED9004AB746 /* ViewController.m */,
 				BC938DD91C2E7FFF004AB746 /* VideoView.h */,
 				BC938DDA1C2E7FFF004AB746 /* VideoView.m */,
+				BC574EE51C33B5C70090617B /* SB.h */,
+				BC574EE61C33B5C70090617B /* SB.m */,
 				BC938DAF1C2E7ED9004AB746 /* Main.storyboard */,
 				BC938DB21C2E7ED9004AB746 /* Assets.xcassets */,
 				BC938DB41C2E7ED9004AB746 /* LaunchScreen.storyboard */,
@@ -287,6 +292,7 @@
 				BC938DDB1C2E7FFF004AB746 /* VideoView.m in Sources */,
 				BC938DAE1C2E7ED9004AB746 /* ViewController.m in Sources */,
 				BC938DAB1C2E7ED9004AB746 /* AppDelegate.m in Sources */,
+				BC574EE71C33B5C70090617B /* SB.m in Sources */,
 				BC938DA81C2E7ED9004AB746 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
